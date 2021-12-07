@@ -1,4 +1,4 @@
-# 42 My Stats
+# 42 Stats
 [![42 stats](https://badge42.herokuapp.com/api/stats/rpinto-r?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
 | Rank        | Project       | Language | Score                                                                          |
