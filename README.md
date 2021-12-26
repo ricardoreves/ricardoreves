@@ -21,4 +21,4 @@
 | 3️⃣          | so_long       | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/so_long)]()       |
 | 3️⃣          | push_swap     | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/push_swap)]()     |
 | 4️⃣          | minishell     | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/minishell)]()     |
-| 4️⃣          | philosophers  | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/philosophers)]()  |
+| 4️⃣          | philosophers  | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/Philosophers)]()  |
