@@ -12,17 +12,17 @@
 ### 42 Stats
 [![42 stats](https://badge42.herokuapp.com/api/stats/rpinto-r?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
-| Rank | Project                                                           | Learning | Score                                                                                                |
-| ---- | -------                                                           | -------- | -----                                                                                                |
-| 5️⃣   | [cpp_modules](https://github.com/ricardoreves/42-cpp-modules)     | C++      | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/cppmodule00?nologo&nolabel)]()   |
-| 5️⃣   | [net_practice](https://github.com/ricardoreves/42-net-practice)   | Network  | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/netpractice?nologo&nolabel)]()   |
-| 5️⃣   | [minirt](https://github.com/ricardoreves/42-minirt)               | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minirt?nologo&nolabel)]()        |
-| 4️⃣   | [minishell](https://github.com/ricardoreves/42-minishell)         | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minishell?nologo&nolabel)]()     |
-| 4️⃣   | [philosophers](https://github.com/ricardoreves/42-philosophers)   | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/philosophers?nologo&nolabel)]()  |
-| 3️⃣   | [push_swap](https://github.com/ricardoreves/42-push-swap)         | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/pushswap?nologo&nolabel)]()      |
-| 3️⃣   | [so_long](https://github.com/ricardoreves/42-so-long)             | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/solong?nologo&nolabel)]()        |
-| 3️⃣   | [minitalk](https://github.com/ricardoreves/42-minitalk)           | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minitalk?nologo&nolabel)]()      |
-| 2️⃣   | [born2beroot](https://github.com/ricardoreves/42-born2beroot)     | VM       | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/born2beroot?nologo&nolabel)]()   |
-| 2️⃣   | [get_next_line](https://github.com/ricardoreves/42-get-next-line) | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/getnextline?nologo&nolabel)]()   |
-| 2️⃣   | [ft_printf](https://github.com/ricardoreves/42-ft-printf)         | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/ftprintf?nologo&nolabel)]()      |
-| 1️⃣   | [libft](https://github.com/ricardoreves/42-libft)                 | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/libft?nologo&nolabel)]()         |
+| Rank | Learning | Project                                                                                                                              |
+| ---- | -------  | --------                                                                                                                             |
+| 5️⃣   | C++      | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/cppmodule00)](https://github.com/ricardoreves/42-cpp-modules)    |
+| 5️⃣   | Network  | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/netpractice)](https://github.com/ricardoreves/42-net-practice)   |
+| 5️⃣   | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minirt)](https://github.com/ricardoreves/42-minirt)              |
+| 4️⃣   | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minishell)](https://github.com/ricardoreves/42-minishell)        |
+| 4️⃣   | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/philosophers)](https://github.com/ricardoreves/42-philosophers)  |
+| 3️⃣   | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/push_swap)](https://github.com/ricardoreves/42-push-swap)        |
+| 3️⃣   | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/solong)](https://github.com/ricardoreves/42-so-long)             |
+| 3️⃣   | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minitalk)](https://github.com/ricardoreves/42-minitalk)          |
+| 2️⃣   | VM       | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/born2beroot)](https://github.com/ricardoreves/42-born2beroot)    |
+| 2️⃣   | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/getnextline)](https://github.com/ricardoreves/42-get-next-line)  |
+| 2️⃣   | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/ftprintf)](https://github.com/ricardoreves/42-ft-printf)         |
+| 1️⃣   | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/libft)](https://github.com/ricardoreves/42-libft)                |
