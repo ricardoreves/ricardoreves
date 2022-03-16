@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🖖, I'm Ricardo</h1>
 <h3 align="center">A passionate frontend developer from Switzerland 🇨🇭</h3>
 
-- 🏗️ I’m currently working on **Minishell**
+- 🏗️ I’m currently working on **Minirt**
 - 📖 I’m currently learning **C, Shell**
 - 🧪 I’m currently experimenting **Raspberry, Arduino**
 
@@ -12,14 +12,17 @@
 ### 42 Stats
 [![42 stats](https://badge42.herokuapp.com/api/stats/rpinto-r?privacyName=true)](https://github.com/JaeSeoKim/badge42)
 
-| Rank        | Project       | Language | Score                                                                          |
-| ----------- | -----------   | -------- | ------------------------------------------------------------------------------ |
-| 1️⃣          | libft         | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/Libft)]()         |
-| 2️⃣          | ft_printf     | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/ft_printf)]()     |
-| 2️⃣          | get_next_line | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/get_next_line)]() |
-| 2️⃣          | born2beroot   | Shell    | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/Born2beroot)]()   |
-| 3️⃣          | minitalk      | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/minitalk)]()      |
-| 3️⃣          | so_long       | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/so_long)]()       |
-| 3️⃣          | push_swap     | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/push_swap)]()     |
-| 4️⃣          | minishell     | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/minishell)]()     |
-| 4️⃣          | philosophers  | C        | [![Score](https://badge42.herokuapp.com/api/project/rpinto-r/Philosophers)]()  |
+| Rank | Project                                                           | Learning | Score                                                                                                |
+| ---- | -------                                                           | -------- | -----                                                                                                |
+| 5️⃣   | [cpp_modules](https://github.com/ricardoreves/42-cpp-modules)     | C++      | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/cppmodule00?nologo&nolabel)]()   |
+| 5️⃣   | [net_practice](https://github.com/ricardoreves/42-net-practice)   | Network  | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/netpractice?nologo&nolabel)]()   |
+| 5️⃣   | [minirt](https://github.com/ricardoreves/42-minirt)               | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minirt?nologo&nolabel)]()        |
+| 4️⃣   | [minishell](https://github.com/ricardoreves/42-minishell)         | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minishell?nologo&nolabel)]()     |
+| 4️⃣   | [philosophers](https://github.com/ricardoreves/42-philosophers)   | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/philosophers?nologo&nolabel)]()  |
+| 3️⃣   | [push_swap](https://github.com/ricardoreves/42-push-swap)         | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/pushswap?nologo&nolabel)]()      |
+| 3️⃣   | [so_long](https://github.com/ricardoreves/42-so-long)             | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/solong?nologo&nolabel)]()        |
+| 3️⃣   | [minitalk](https://github.com/ricardoreves/42-minitalk)           | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minitalk?nologo&nolabel)]()      |
+| 2️⃣   | [born2beroot](https://github.com/ricardoreves/42-born2beroot)     | VM       | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/born2beroot?nologo&nolabel)]()   |
+| 2️⃣   | [get_next_line](https://github.com/ricardoreves/42-get-next-line) | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/getnextline?nologo&nolabel)]()   |
+| 2️⃣   | [ft_printf](https://github.com/ricardoreves/42-ft-printf)         | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/ftprintf?nologo&nolabel)]()      |
+| 1️⃣   | [libft](https://github.com/ricardoreves/42-libft)                 | C        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/libft?nologo&nolabel)]()         |
