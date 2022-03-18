@@ -1,8 +1,8 @@
 <h1 align="center">Hi 🖖, I'm Ricardo</h1>
 <h3 align="center">A passionate frontend developer from Switzerland 🇨🇭</h3>
 
-- 🏗️ I’m currently working on **Minirt**
-- 📖 I’m currently learning **C, Shell**
+- 🏗️ I’m currently working on **MiniRT**
+- 📖 I’m currently learning **C, C++, Shell, Network**
 - 🧪 I’m currently experimenting **Raspberry, Arduino**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -14,15 +14,15 @@
 
 | Rank | Learning       | Project                                                                                                                              |
 | ---- | -------        | --------                                                                                                                             |
-| 5️⃣   | C++ language   | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/cppmodule00)](https://github.com/ricardoreves/42-cpp-modules)    |
-| 5️⃣   | Network        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/netpractice)](https://github.com/ricardoreves/42-net-practice)   |
-| 5️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minirt)](https://github.com/ricardoreves/42-minirt)              |
-| 4️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minishell)](https://github.com/ricardoreves/42-minishell)        |
-| 4️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/philosophers)](https://github.com/ricardoreves/42-philosophers)  |
-| 3️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/push_swap)](https://github.com/ricardoreves/42-push-swap)        |
-| 3️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/solong)](https://github.com/ricardoreves/42-so-long)             |
-| 3️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/minitalk)](https://github.com/ricardoreves/42-minitalk)          |
-| 2️⃣   | Virtualization | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/born2beroot)](https://github.com/ricardoreves/42-born2beroot)    |
-| 2️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/getnextline)](https://github.com/ricardoreves/42-get-next-line)  |
-| 2️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/ftprintf)](https://github.com/ricardoreves/42-ft-printf)         |
-| 1️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/libft)](https://github.com/ricardoreves/42-libft)                |
+| 5️⃣   | C++ language   | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/CPP_Module_00)](https://github.com/ricardoreves/42-cpp-modules)    |
+| 5️⃣   | Network        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/Net_Practice)](https://github.com/ricardoreves/42-net-practice)   |
+| 5️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/MiniRT)](https://github.com/ricardoreves/42-minirt)              |
+| 4️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/Minishell)](https://github.com/ricardoreves/42-minishell)        |
+| 4️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/Philosophers)](https://github.com/ricardoreves/42-philosophers)  |
+| 3️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/Push_Swap)](https://github.com/ricardoreves/42-push-swap)        |
+| 3️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/So_Long)](https://github.com/ricardoreves/42-so-long)             |
+| 3️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/Minitalk)](https://github.com/ricardoreves/42-minitalk)          |
+| 2️⃣   | Virtualization | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/Born2beroot)](https://github.com/ricardoreves/42-born2beroot)    |
+| 2️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/Get_Next_Line)](https://github.com/ricardoreves/42-get-next-line)  |
+| 2️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/Ft_Printf)](https://github.com/ricardoreves/42-ft-printf)         |
+| 1️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/Libft)](https://github.com/ricardoreves/42-libft)                |
