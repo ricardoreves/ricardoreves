@@ -2,7 +2,7 @@
 <img width="150" align='right' src="qr-code.svg">
 <h3 align="center">A passionate frontend developer from Switzerland 🇨🇭</h3>
 
-- 🏗️ I’m currently working on **MiniRT**
+- 🏗️ I’m currently working on **CPP Modules**
 - 📖 I’m currently learning **C, C++, Shell, Network**
 - 🧪 I’m currently experimenting **Raspberry, Arduino**
 
