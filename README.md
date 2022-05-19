@@ -19,7 +19,7 @@
 [![rpinto-r's 42 stats](https://badge42.vercel.app/api/v2/cl32304lm001109mhd3e8n7m3/stats?cursusId=21&coalitionId=192)](https://github.com/JaeSeoKim/badge42)
 | Rank | Learning       | Project                                                                                                                              |
 | ---- | -------        | --------                                                                                                                             |
-| 5️⃣   | C++ language   | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/CPP_Module_01)](https://github.com/ricardoreves/42-cpp-modules)    |
+| 5️⃣   | C++ language   | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/CPP_Module_08)](https://github.com/ricardoreves/42-cpp-modules)    |
 | 5️⃣   | Network        | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/Net_Practice)](https://github.com/ricardoreves/42-net-practice)   |
 | 5️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/MiniRT)](https://github.com/ricardoreves/42-minirt)              |
 | 4️⃣   | C language     | [![Score](https://42-project-badge.glitch.me/users/rpinto-r/project/Minishell)](https://github.com/ricardoreves/42-minishell)        |
