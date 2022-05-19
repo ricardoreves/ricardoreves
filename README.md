@@ -1,6 +1,5 @@
 <h1 align="center">Hi 🖖, I'm Ricardo</h1>
 <img width="150" align='right' src="qr-code.svg">
-<h3 align="center">A passionate frontend developer from Switzerland 🇨🇭</h3>
 
 - 🛠️ I’m currently working on **CPP Modules**
 - 📚 I’m currently learning **C, C++, Shell, Network**
