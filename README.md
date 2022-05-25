@@ -3,7 +3,7 @@
 
 - 🛠️ I’m currently working on **CPP Modules**
 - 📚 I’m currently learning **C, C++, Shell, Network**
-- 👀 I’m interested to learn **React.js, React Native, Vue.js, Kotlin, Swift, Gatsby, GraphQL, Docker, Kubernetes, Flask, Django, Go, Rust**
+- 👀 I’m interested to learn **React.js, React Native, Vue.js, Kotlin, Swift, Java Spring, Go, Rust, GraphQL, Docker, Kubernetes**
 - 🤖 I'm also a fan of **Arduino, Raspberry PI**
 
 <h3 align="left">Languages and Tools:</h3>
