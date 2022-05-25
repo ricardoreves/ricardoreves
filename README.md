@@ -20,15 +20,15 @@
 | Rank | Learning       | Project                                                                                                                              |
 | ---- | -------        | --------                                                                                                                             |
 | 5️⃣   | C++ language   | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/CPP_Module_08)](https://github.com/ricardoreves/42-cpp-modules)    |
-| 5️⃣   | Network        | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Net_Practice)](https://github.com/ricardoreves/42-net-practice)   |
+| 5️⃣   | Network        | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Net_Practice?)](https://github.com/ricardoreves/42-net-practice)   |
 | 5️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/MiniRT)](https://github.com/ricardoreves/42-minirt)              |
 | 4️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Minishell)](https://github.com/ricardoreves/42-minishell)        |
-| 4️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Philosophers)](https://github.com/ricardoreves/42-philosophers)  |
-| 3️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Push_Swap)](https://github.com/ricardoreves/42-push-swap)        |
-| 3️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/So_Long)](https://github.com/ricardoreves/42-so-long)             |
-| 3️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Minitalk)](https://github.com/ricardoreves/42-minitalk)          |
-| 2️⃣   | Virtualization | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Born2beroot)](https://github.com/ricardoreves/42-born2beroot)    |
-| 2️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Get_Next_Line)](https://github.com/ricardoreves/42-get-next-line)  |
-| 2️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Ft_Printf)](https://github.com/ricardoreves/42-ft-printf)         |
+| 4️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Philosophers?)](https://github.com/ricardoreves/42-philosophers)  |
+| 3️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Push_Swap?)](https://github.com/ricardoreves/42-push-swap)        |
+| 3️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/So_Long?)](https://github.com/ricardoreves/42-so-long)             |
+| 3️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Minitalk?)](https://github.com/ricardoreves/42-minitalk)          |
+| 2️⃣   | Virtualization | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Born2beroot?)](https://github.com/ricardoreves/42-born2beroot)    |
+| 2️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Get_Next_Line?)](https://github.com/ricardoreves/42-get-next-line)  |
+| 2️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Ft_Printf?)](https://github.com/ricardoreves/42-ft-printf)         |
 | 1️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Libft)](https://github.com/ricardoreves/42-libft)                |
  
