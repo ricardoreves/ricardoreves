@@ -30,5 +30,5 @@
 | 2️⃣   | Virtualization | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Born2beroot?)](https://github.com/ricardoreves/42-born2beroot)    |
 | 2️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Get_Next_Line?)](https://github.com/ricardoreves/42-get-next-line)  |
 | 2️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Ft_Printf?)](https://github.com/ricardoreves/42-ft-printf)         |
-| 1️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Libft)](https://github.com/ricardoreves/42-libft)                |
+| 1️⃣   | C language     | [![Score](https://42-project-badge.netlify.app/api/users/rpinto-r/projects/Libft?)](https://github.com/ricardoreves/42-libft)                |
  
