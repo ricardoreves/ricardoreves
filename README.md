@@ -12,8 +12,8 @@
 
 ### Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardoreves&theme=default&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoreves&layout=compact&card_width=445&langs_count=10&hide=roff,perl,objective-c&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoreves&layout=compact&card_width=445&langs_count=10&hide=roff,perl,objective-c,makefile,dockerfile&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Snake Light](github-snake.svg)
 
 ### 42 Stats
 [![rpinto-r's 42 stats](https://badge42.vercel.app/api/v2/cl32304lm001109mhd3e8n7m3/stats?cursusId=21&coalitionId=192)](https://github.com/JaeSeoKim/badge42)
